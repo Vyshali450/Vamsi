@@ -12,6 +12,7 @@ public class Autosuggestive {
 // TODO Auto-generated method stub
 		System.setProperty("webdriver.chrome.driver", "/Users/vamsichowdary/Movies/chromedriver");
 		WebDriver driver = new ChromeDriver();
+		driver.get("https://www.ksrtc.in");
 
 		driver.get("https://www.ksrtc.in");
 		driver.findElement(By.xpath("//input[@id='fromPlaceName']")).sendKeys("BENG");
