@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-11-24T12:29:24 EST" name="Default suite" finished-at="2019-11-24T12:29:29 EST" duration-ms="4682">
+    <groups>
+    </groups>
+    <test started-at="2019-11-24T12:29:24 EST" name="Default test" finished-at="2019-11-24T12:29:29 EST" duration-ms="4682">
+      <class name="learning.November.Newtesting">
+        <test-method signature="mobiletesting()[pri:0, instance:learning.November.Newtesting@1a38c59b]" started-at="2019-11-24T12:29:28 EST" name="mobiletesting" finished-at="2019-11-24T12:29:29 EST" duration-ms="531" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobiletesting -->
+      </class> <!-- learning.November.Newtesting -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
