@@ -1,0 +1,2 @@
+This specification does not indicate the behavior rendering or otherwise of space characters other than those explicitly identified here as white space characters
+For this reason authors should use appropriate elements and styles to achieve visual formatting effects that involve white space rather than space characters
